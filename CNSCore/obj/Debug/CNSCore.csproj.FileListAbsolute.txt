@@ -1,0 +1,25 @@
+D:\CURRENT PROJECTS\CompareNShip\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\CompareNShip\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\CompareNShip\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.csprojResolveAssemblyReference.cache
+D:\CURRENT PROJECTS\CompareNShip\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\CompareNShip\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\Compare N Ship\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\Compare N Ship\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.csprojResolveAssemblyReference.cache
+D:\CURRENT PROJECTS\CompareNShip\Working Copy\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\CompareNShip\Working Copy\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\CompareNShip\Working Copy\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\CompareNShip\Working Copy\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\log4net.dll
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\Newtonsoft.Json.dll
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\PayPal.dll
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\log4net.xml
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\Newtonsoft.Json.xml
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\bin\Debug\PayPal.xml
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.dll
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.pdb
+D:\CURRENT PROJECTS\Compare N Ship\CNS_VSS\Source Code\CompareNShipWeb\CNSCore\obj\Debug\CNSCore.csprojResolveAssemblyReference.cache
